@@ -1,7 +1,7 @@
 # Horoscope Project
 
 ## Setting Up the Environment
-   Welcome back, folks! So we learned the importance of building this Horoscope project. Kudos! In this lesson, we will set up the environment required to build our project.So get ready to set up the project and install all the dependencies. Brace yourself and fire up your terminal. We will be running a handful of commands.
+In this lesson, we will set up the environment required to build our project.So get ready to set up the project and install all the dependencies. Brace yourself and fire up your terminal. We will be running a handful of commands.
 
 ## Install HardHat
 First, make a project directory where you will work and we will install all the dependencies and hardhat there.Now open your terminal and run the following commands one by one. Just copy and paste one by one.
